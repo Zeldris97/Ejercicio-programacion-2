@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1600640621 source:c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\main.cpp
+	<iostream>
+	"Reportes.h"
+	"locale.h"
+
+1600640407 c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\reportes.h
+
+1600640269 source:c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\interfaz.cpp
+	<iostream>
+	<cstring>
+	"interfaz.h"
+	"rlutil.h"
+
+1600640387 c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\interfaz.h
+
+1571584339 c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600640878 source:c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"interfaz.h"
+	"Reportes.h"
+
+1600640621 source:c:\users\agustin\desktop\utn\programacion 2\ejercicio tp archivos\ejercicio tp archivos 2.0\ejercicio 1 tp archivos\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Reportes.h"
+	"interfaz.h"
+	"rlutil.h"
+
